@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_contacts"
+        android:icon="@drawable/ic_contacts_black"
+        android:title="Contacts" />
+    <item
+        android:id="@+id/menu_leads"
+        android:icon="@drawable/ic_people_black"
+        android:title="Leads" />
+
+    <item
+        android:id="@+id/menu_opportunities"
+        android:icon="@drawable/ic_perm_contact_calendar"
+        android:title="Opportunities" />
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "681489398374",
+    "firebase_url": "https://fir-demo-71bb0.firebaseio.com",
+    "project_id": "fir-demo-71bb0",
+    "storage_bucket": "fir-demo-71bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681489398374:android:caae8d015ba3113c",
+        "android_client_info": {
+          "package_name": "com.novumlogic.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681489398374-m6c3dbnabcb6r3t1iv0s1cu9qiaisddr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZuCNYd5OhnDX2aHyUxyEB9HyAME4zoCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
